@@ -1,6 +1,5 @@
 # Embryonic-mouse-spinal-Commissural-neuron-scRNA-sequencing
 
-![Banner](./banner.jpeg)
 
 
 

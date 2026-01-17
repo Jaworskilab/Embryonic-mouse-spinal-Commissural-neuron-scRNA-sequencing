@@ -7,5 +7,5 @@ The analysis focuses on integration across embryonic stages and downstream chara
 
 
 <p align="center">
-  <img src="banner.tif" width="1000">
+  <img src="githiub.jpeg.tif" width="1000">
 </p>
